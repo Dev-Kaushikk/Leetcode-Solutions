@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dev-Kaushikk/Leet-Code-Problem-Solns/tree/master/0011-container-with-most-water) |
+| [0704-binary-search](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
