@@ -17,7 +17,6 @@ public:
             reverseNum*=10;
             reverseNum = reverseNum+digit;
             x=x/10;
-
         }
         return reverseNum;
     }
