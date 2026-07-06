@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dev-Kaushikk/Leet-Code-Problem-Solns/tree/master/0011-container-with-most-water) |
+| [0344-reverse-string](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
