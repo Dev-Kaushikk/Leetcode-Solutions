@@ -16,6 +16,7 @@ public:
                 if (count==0)
                 {
                     majority=nums[i];
+                    count=1;
                 }
                 else
                 {
