@@ -7,7 +7,6 @@ public:
         int idx;
         leftSum[0]=0;
         rightSum[n-1]=0;
-        int count=0;
         for(int i=1;i<n;i++)
         {
             leftSum[i]= leftSum[i-1]+nums[i-1];
@@ -20,7 +19,6 @@ public:
         {
             if(leftSum[idx]==rightSum[idx])
             {
-                count+=1;
                 return idx;
             }
         }
