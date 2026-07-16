@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0283-move-zeroes) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0344-reverse-string) |
 ## Greedy
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
 | ------- |
