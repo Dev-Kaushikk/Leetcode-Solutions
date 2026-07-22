@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -121,8 +123,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [0509-fibonacci-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## String Matching
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0796-rotate-string) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
