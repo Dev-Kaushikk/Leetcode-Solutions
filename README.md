@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0344-reverse-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0796-rotate-string](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0796-rotate-string) |
 ## Dynamic Programming
