@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0260-single-number-iii) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Recursion
 |  |
 | ------- |
