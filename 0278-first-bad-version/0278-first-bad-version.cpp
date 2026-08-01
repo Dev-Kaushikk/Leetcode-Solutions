@@ -6,12 +6,10 @@ public:
     int firstBadVersion(int n) {
         int high=n;
         int low=1;
-        int mid=0;
         while(low<=high)
         {
-            mid=low+(high-low)/2;
-            bool api=isBadVersion(mid);
-            if(api)
+            int mid=low+(high-low)/2;
+            if(isBadVersion(mid))
             {
                 high=mid-1;
             }
