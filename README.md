@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0704-binary-search) |
 ## Prefix Sum
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
