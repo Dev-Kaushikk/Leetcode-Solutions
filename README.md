@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
