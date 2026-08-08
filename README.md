@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0268-missing-number) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -182,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0278-first-bad-version) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Dev-Kaushikk/Leetcode-Solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
